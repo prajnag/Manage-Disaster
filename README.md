@@ -8,7 +8,6 @@ The first one is a logistics app, which benefits those who want to volunteer and
 
 We can also tie up with some companies like Swiggy and Uber to make delivery of items possible.
 
-
-Secondly, in many parts of the world, an emergency service can identify the telephone number that a call has been placed from. This is normally done using the system that the telephone company uses to bill calls, making the number visible even for users who have unlisted numbers or who block caller ID. Enhanced 911 and similar systems like E112 can provide the location of landline callers by looking up the physical address in a database, and mobile callers through triangulation from towers or GPS on the device. This is often specifically mandated in a country's telecommunication law.
 Our second idea is to use the same technology that emergency numbers use. In many parts of the world, an emergency service can identify the telephone number that a call has been placed from. For landline users, the location can be found by looking up their physical address in a database and for mobile users, GPS is generally used.
-Using this approach, we would like to add a people finder option on the application for the benefit of the families of those who are affected.
+Using this approach, we would like to add a people finder option on the application for the benefit of the families of those who are affected. Also, the person concerned can submit some more personal details on the platform provided to him by us( either an app or a website) so that identification and location becomes easier. 
+
